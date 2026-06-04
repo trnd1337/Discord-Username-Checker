@@ -122,6 +122,6 @@ pip install selenium requests
 ---
 Notițe
 
-Ține credențialele private
-Discord poate restricționa sau bloca activitatea automată a conturilor
-ChromeDriver trebuie să fie compatibil cu versiunea de Chrome instalată: https://chromedriver.chromium.org/downloads
+- Ține credențialele private
+- Discord poate restricționa sau bloca activitatea automată a conturilor
+- ChromeDriver trebuie să fie compatibil cu versiunea de Chrome instalată: https://chromedriver.chromium.org/downloads
