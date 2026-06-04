@@ -34,8 +34,8 @@ pip install selenium requests
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/trnd1337/Discord-Username-Checker.git
+   cd Discord-Username-Checker 
    ```
 
 2. **Configure your credentials** in `usernamepublic.py`:
@@ -100,8 +100,8 @@ pip install selenium requests
 
 1. **Clonează repository-ul**
    ```bash
-   git clone https://github.com/xtrnd/Discord-Username-Checker.git
-   cd Discord-Username-Checker
+   git clone https://github.com/trnd1337/Discord-Username-Checker.git
+   cd Discord-Username-Checker 
    ```
 
 2. **Completează credențialele** în `usernamepublic.py`:
