@@ -2,7 +2,7 @@
 
 # Discord Username Availability Checker
 
-A Python bot that automatically checks the availability of random Discord usernames and sends the results to a Discord channel via a bot.
+A Python tool that automatically checks the availability of random Discord usernames and sends the results to a Discord channel via a bot.
 
 ---
 
