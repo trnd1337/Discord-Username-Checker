@@ -1,4 +1,4 @@
-#EN 
+#🇬🇧
 
 # Discord Username Availability Checker
 
@@ -64,7 +64,7 @@ pip install selenium requests
 ---
 ---
 
-#RO
+#🇷🇴
 
 # Verificator de Disponibilitate Usernames Discord
 
